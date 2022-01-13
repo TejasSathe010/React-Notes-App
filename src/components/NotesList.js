@@ -1,10 +1,14 @@
 import React from 'react';
-import Note from './Note.js'
+import Note from './Note.js';
+import AddNote from './AddNote';
 
-const NotesList = () => {
+const NotesList = ({ notes }) => {
     return (
         <div className="notes-list">
-            <Note />
+            {notes.map((note)=> (
+                <Note note={note} />
+            ))}
+            <AddNote />
         </div>
     )
 }

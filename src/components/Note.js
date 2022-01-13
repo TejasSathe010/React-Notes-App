@@ -1,12 +1,12 @@
 import React from 'react';
 import { FaTrashAlt } from 'react-icons/fa';
 
-const Note = () => {
+const Note = ({ note }) => {
     return (
         <div className="note">
-            <span>Hello! This is a note</span>
+            <span>{ note.text }</span>
             <div className="note-footer">
-                <small>13, January, 2015</small>
+                <small>{ note.date }</small>
                 <FaTrashAlt />
             </div>
         </div>
