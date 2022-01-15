@@ -8,6 +8,7 @@ const Note = ({ note, deleteNote }) => {
             <div className="note-footer">
                 <small>{ note.date }</small>
                 <FaTrashAlt
+                className="delete-icon"
                 onClick={() => {
                     deleteNote(note.id)
                 }}

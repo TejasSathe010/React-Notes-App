@@ -97,13 +97,14 @@ textarea:focus {
 	background-color: rgb(233, 233, 233);
 	border-radius: 10px;
 	padding: 5px;
-	margin-bottom: 1.5em;
+	margin: 1.5em 0;
 }
 
 .search input {
 	border: none;
 	background-color: rgb(233, 233, 233);
 	width: 100%;
+	font-size: 1.3em;
 }
 
 .search input:focus {
