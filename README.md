@@ -17,6 +17,15 @@
 <h4> React concepts used - useState, props, useEffect.</h4>
 
 
-### Mobile View of App
+### Dark theme Mobile View of App.
 ![Mobile View of App](https://github.com/TejasSathe010/React-Notes-App/blob/master/Screenshot%202022-01-15%20at%204.12.35%20PM.png)
+
+### Normal theme Mobile View of App.
+![Mobile View of App](https://github.com/TejasSathe010/React-Notes-App/blob/master/Screenshot%202022-01-15%20at%204.12.41%20PM.png)
+
+### Laptop View of App.
+![Laptop View of App](https://github.com/TejasSathe010/React-Notes-App/blob/master/Screenshot%202022-01-15%20at%204.12.55%20PM.png)
+
+### Laptop View of App.
+![Laptop View of App](https://github.com/TejasSathe010/React-Notes-App/blob/master/Screenshot%202022-01-15%20at%204.13.19%20PM.png)
 
